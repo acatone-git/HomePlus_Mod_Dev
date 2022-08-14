@@ -38,11 +38,11 @@ Here's a companion table that explains what those available / usable input in th
 
 To open the shell / connection between the PC & the RP2+ use the command: adb shell
 
-#### L3 Down Command Sequence (Stuck Down):
+#### L3 Stuck Down Command Sequence:
 
 > sendevent /dev/input/event5 1 317 1; sendevent /dev/input/event5 0 0 0;
 
-#### L3 Down Command Sequence (Stuck Up):
+#### L3 Stuck Up Command Sequence:
 
 > sendevent /dev/input/event5 1 317 0; sendevent /dev/input/event5 0 0 0;
 
