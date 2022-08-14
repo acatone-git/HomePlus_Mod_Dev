@@ -24,7 +24,7 @@ Here's a [log]() of all the available / usable inputs on the RP2+, everything el
 
 Here's a companion [table]() that explains what those available / usable input do.
 
-## Simulate Keys Syntax
+## Simulate Keys Press Syntax
 
 To open the shell / connection between the PC & the RP2+ use the command: adb shell
 
