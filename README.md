@@ -7,8 +7,8 @@ This repo is dedicated to the further development of the HomePlus Mod, either by
 1) It removes the default RP2+ key layout file (/system/usr/keylayout/Vendor_2020_Product_0111.kl) from the RP2+ 
 2) Since the default key layout file is now "missing", the device will automatically assign the universal key layout (Generic.kl) to the RP2+
 3) It then changes the value of the HOME button to the obscure modifier (META_LEFT) in the universal key layout (key 102 META_LEFT)
-4) Lastly, it copies the modified universal layout to the designed folder (/system/usr/keylayout/) & gives it the required permissions (rw-rw-r--)
-5) The rest of the script just verifies that all files are present when installing / removing HomePlus.
+4) Lastly, it copies the modified universal layout to the designed folder (/system/usr/keylayout/) & gives it the required permissions (644)
+5) The rest of the script just verifies that all files are present when installing / removing HomePlus, that' all.
 
 ## Dev / Testing Requirements
 
@@ -71,5 +71,5 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 - "getevent" - Live Input Capture
 - "dumpsys" - Shows which layout file (.kl) is being assigned to all the available inputs
 - "stat -c "%A %a %N" *" - Shows the file permissions assigned to each file in a folder
-- "chmod 664 FILE_NAME" - Gives "rw-rw-r--" permission to a file
+- "chmod 644 FILE_NAME" - Gives "rw-rw-r--" permission to a file
 - "input text "YOUR_TEXT" - Sends texts from the PC to the device
