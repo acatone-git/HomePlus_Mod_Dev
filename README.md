@@ -66,6 +66,6 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 - "chmod 664 FILE_NAME" - Gives "rw-rw-r--" permission to a file
 - "input text "YOUR_TEXT" - Sends texts from the PC to the device
 
-# Dev Notes
+# What does HomePlus do?
 
-
+By removing the default RP2+ key layout (/system/usr/keylayout/Vendor_2020_Product_0111.kl), HomePlus forces the device to use the "Generic.kl"
