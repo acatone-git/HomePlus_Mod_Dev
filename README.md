@@ -28,7 +28,7 @@ This repo is dedicated to the further development of the HomePlus Mod, either by
 
 ## Available Inputs Log
 
-Here's a log of all the available / usable inputs on the RP2+, everything else will be ignored / discarded by the device: [Available_Inputs]()
+Here's a log of all the available / usable inputs on the RP2+, everything else will be ignored / discarded by the device: [Available_Inputs.txt](https://github.com/acatone-git/HomePlus_Dev/blob/main/Docs/Available_Inputs.txt)
 
 ## Input Values / Function Table
 
