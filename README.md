@@ -2,7 +2,7 @@
 
 This repo is dedicated to the improvement of the HomePlus Mod, either by me, the community or the Retroid Team.
 
-# What does the HomePlus Mod actually do?
+# What does the [HomePlus Mod]() actually do?
 
 1) It removes the default RP2+ key layout file (/system/usr/keylayout/Vendor_2020_Product_0111.kl) from the RP2+ 
 2) Since the default key layout file is now "missing", the device will automatically assign the universal key layout (Generic.kl) to the RP2+
