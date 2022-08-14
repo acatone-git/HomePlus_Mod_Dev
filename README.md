@@ -70,6 +70,8 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 
 # Automate Examples 
 
+Simply download these examples, import them in automate & play around with them.
+
 - [Simulated Keypress]()
 - [Simulated Keypress + Function]()
 - [Simulated Keypress + App Launch]()
