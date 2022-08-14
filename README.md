@@ -77,5 +77,5 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 
 # R&D Notes
 
-- Creating a modified key layout file called "Vendor_0001_Product_0001.kl" in "/system/usr/keylayout/" splits, at least software wise, the volume + power board (gpio-keys) from the main board (Retro Station Controller / Xbox Controller) (see [screenshot]() / try [split]())
+- Creating a modified key layout file called "Vendor_0001_Product_0001.kl" in "/system/usr/keylayout/" splits, at least software wise, the volume + power board (gpio-keys) from the main board (Retro Station Controller / Xbox Controller) (see [screenshot](https://github.com/acatone-git/HomePlus_Dev/blob/main/Split/split.png) / try [split]())
 
