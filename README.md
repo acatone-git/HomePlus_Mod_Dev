@@ -1,1 +1,1 @@
-# HomePlus - Development Notes
+# HomePlus - Development [Documentation, Examples & Notes)
