@@ -12,7 +12,7 @@ This repo is dedicated to the further development of the HomePlus Mod, either by
 
 # Dev / Testing Area
 
-## Dev / Testing Requirements
+## Requirements
 
 #### PC / Laptop 
 
