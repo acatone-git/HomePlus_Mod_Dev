@@ -12,9 +12,16 @@ Here's a companion [table]() that explains what those available / usable input d
 
 ## Dev / Testing Requirements
 
+### PC / Laptop 
+
 - ADB & Universal Drivers Installed : https://forum.xda-developers.com/t/tool-windows-adb-fastboot-may-2022.3944288/ 
+
+### RP2+
+
 - USB Debugging Enabled 
 > Settings > System > About RP2+ > Tap on the Build number x5 > Back to System > Developer Options > USB Debugging
+- Automate: https://llamalab.com/automate/
+- Terminal Emulator : https://github.com/jackpal/Android-Terminal-Emulator
 
 ## Simulated Keys Syntax
 
@@ -44,10 +51,21 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 
 ## Automate Examples 
 
-- Let's Go Button: 
-- Launch App: 
-- Simulated Key Press:
-- Simulated Key Press + Function:
+- [Let's Go Button] 
+- [Launch App]
+- [Simulated Key Press]
+- [Simulated Key Press + Function]
+
+(Note: HomePlus Mod must be installed for these to work)
+
+## Useful Commands
+
+- "getevent -p" - Lists all available inputs
+- "getevent" - Live Input Capture
+- "dumpsys" - Shows which layout file (.kl) is being assigned to all the available inputs
+- "stat -c "%A %a %N" *" - Shows the file permissions assigned to each file in a folder
+- "chmod 664 FILE_NAME" - Gives "rw-rw-r--" permission to a file
+- "input text "YOUR_TEXT" - Sends texts from the PC to the device
 
 # Dev Notes
 
