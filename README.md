@@ -20,6 +20,7 @@ Here's a companion [table]() that explains what those available / usable input d
 
 - USB Debugging Enabled 
 > Settings > System > About RP2+ > Tap on the Build number x5 > Back to System > Developer Options > USB Debugging
+- HomePlus Mod: 
 - Automate: https://llamalab.com/automate/
 - Terminal Emulator : https://github.com/jackpal/Android-Terminal-Emulator
 
@@ -55,8 +56,6 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 - [Launch App]
 - [Simulated Key Press]
 - [Simulated Key Press + Function]
-
-(Note: HomePlus Mod must be installed for these to work)
 
 ## Useful Commands
 
