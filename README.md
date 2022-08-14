@@ -12,11 +12,11 @@ Here's a companion [table]() that explains what those available / usable input d
 
 ## Dev / Testing Requirements
 
-### PC / Laptop 
+#### PC / Laptop 
 
 - ADB & Universal Drivers Installed : https://forum.xda-developers.com/t/tool-windows-adb-fastboot-may-2022.3944288/ 
 
-### RP2+
+#### RP2+
 
 - USB Debugging Enabled 
 > Settings > System > About RP2+ > Tap on the Build number x5 > Back to System > Developer Options > USB Debugging
