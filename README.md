@@ -20,7 +20,7 @@ Here's a companion [table]() that explains what those available / usable input d
 
 - USB Debugging Enabled 
 > Settings > System > About RP2+ > Tap on the Build number x5 > Back to System > Developer Options > USB Debugging
-- HomePlus Mod: 
+- HomePlus Mod: https://github.com/acatone-git/HomePlus_Mod
 - Automate: https://llamalab.com/automate/
 - Terminal Emulator : https://github.com/jackpal/Android-Terminal-Emulator
 
@@ -67,4 +67,5 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 - "input text "YOUR_TEXT" - Sends texts from the PC to the device
 
 # Dev Notes
+
 
