@@ -2,14 +2,6 @@
 
 This repo is dedicated to the further development of the HomePlus Mod, either by me, the community or the Retroid Team.
 
-## Available Inputs on the RP2+
-
-Here's a [log]() of all the available / usable inputs on the RP2+, everything else will be ignored / discarded by the device. 
-
-## Input Values / Function Table
-
-Here's a companion [table]() that explains what those available / usable input do.
-
 ## Dev / Testing Requirements
 
 #### PC / Laptop 
@@ -23,6 +15,14 @@ Here's a companion [table]() that explains what those available / usable input d
 - HomePlus Mod: https://github.com/acatone-git/HomePlus_Mod
 - Automate: https://llamalab.com/automate/
 - Terminal Emulator : https://github.com/jackpal/Android-Terminal-Emulator
+
+## Available Inputs on the RP2+
+
+Here's a [log]() of all the available / usable inputs on the RP2+, everything else will be ignored / discarded by the device. 
+
+## Input Values / Function Table
+
+Here's a companion [table]() that explains what those available / usable input do.
 
 ## Simulated Keys Syntax
 
