@@ -18,11 +18,11 @@ This repo is dedicated to the further development of the HomePlus Mod, either by
 
 ## Available Inputs on the RP2+
 
-Here's a [log]() of all the available / usable inputs on the RP2+, everything else will be ignored / discarded by the device. 
+Here's a log of all the available / usable inputs on the RP2+, everything else will be ignored / discarded by the device: [Available_Inputs]()
 
 ## Input Values / Function Table
 
-Here's a companion [table]() that explains what those available / usable input do.
+Here's a companion table that explains what those available / usable input do: [Values_Functions]()
 
 ## Simulate Keys Press Syntax
 
