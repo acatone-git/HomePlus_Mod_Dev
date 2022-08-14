@@ -24,8 +24,17 @@ L3 Up:
 
 L3 Press & Release (adb) :
 
-> sendevent /dev/input/event5 1 317 1;sendevent /dev/input/event5 0 0 0;sendevent /dev/input/event5 1 317 0;sendevent /dev/input/event5 0 0 0;
+> <sub>sendevent /dev/input/event5 1 317 1; sendevent /dev/input/event5 0 0 0; sendevent /dev/input/event5 1 317 0; sendevent /dev/input/event5 0 0 0;</sub>
 
+Hold / Input Clear:
+
+This can be modified at wish, if you need to hold down a key for 3 seconds just replace 0.3 to 3.
+
+> sleep 0.3 
+
+L3 Press & Release (HomePlus)
+
+> <sub> sleep 0.3 ; sendevent /dev/input/event5 1 317 1; sendevent /dev/input/event5 0 0 0;  sleep 0.3 ; sendevent /dev/input/event5 1 317 0; sendevent /dev/input/event5 0 0 0;</sub>
 
 
 ## Automate Examples 
