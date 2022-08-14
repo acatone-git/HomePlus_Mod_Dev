@@ -32,7 +32,7 @@ Here's a log of all the available / usable inputs on the RP2+, everything else w
 
 ## Input Values / Function Table
 
-Here's a companion table that explains what those available / usable input in the log do: [Values_Functions.txt]()
+Here's a companion table that explains what those available / usable input in the log do: [Values_Functions.txt](https://github.com/acatone-git/HomePlus_Dev/blob/main/Docs/Values_Functions.txt)
 
 ## Simulate Keys Press Syntax
 
