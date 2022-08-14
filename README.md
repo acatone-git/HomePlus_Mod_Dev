@@ -10,7 +10,14 @@ Here's a [log]() of all the available / usable inputs on the RP2+, everything el
 
 Here's a companion [table]() that explains what those available / usable input do.
 
-## Button Press / Press & Hold Syntax
+## Dev / Testing Requirements
+
+ADB & Universal Drivers Installed : https://forum.xda-developers.com/t/tool-windows-adb-fastboot-may-2022.3944288/ 
+USB Debugging Enabled (Settings > System > About RP2+ > Tap on the Build number x5 > Back to System > Developer Options > USB Debugging)
+
+## Simulated Keys Syntax
+
+To open the shell / connection between the PC & the RP2+ use the command: adb shell
 
 ### L3 Down Command Sequence (Stuck Down):
 
@@ -36,7 +43,10 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 
 ## Automate Examples 
 
-
+- Let's Go Button: 
+- Launch App: 
+- Simulated Key Press:
+- Simulated Key Press + Function:
 
 # Dev Notes
 
