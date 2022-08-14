@@ -28,9 +28,9 @@ Here's a companion [table]() that explains what those available / usable input d
 
 > sleep 0.3 
 
-This can be modified at wish, if you need to hold down a key for 3 seconds just replace 0.3 to 3.
+This can be modified at wish, if you need to hold down a key for 3 seconds or more, just replace 0.3 to 3 or whatever you need.
 
-## L3 Press & Release (HomePlus)
+## L3 Press & Release (HomePlus Mod)
 
 > <sub> sleep 0.3 ; sendevent /dev/input/event5 1 317 1; sendevent /dev/input/event5 0 0 0;  sleep 0.3 ; sendevent /dev/input/event5 1 317 0; sendevent /dev/input/event5 0 0 0;</sub>
 
