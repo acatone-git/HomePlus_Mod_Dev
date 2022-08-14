@@ -1,4 +1,4 @@
-# HomePlus - Documentation, Examples & Dev Notes
+# HomePlus Mod - Documentation, Examples & Dev Notes
 
 This repo is dedicated to the further development of the HomePlus Mod, either by me, the community or the Retroid Team.
 
