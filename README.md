@@ -63,7 +63,7 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 ## Other Useful Commands
 
 - "getevent" - Live Input Capture
-- "dumpsys" - Shows which layout file (.kl) is being assigned to all the available inputs
+- "dumpsys" - Shows which layout file (.kl) is being assigned to the available inputs
 - "stat -c "%A %a %N" *" - Shows the file permissions assigned to each file in a folder
 - "chmod 644 FILE_NAME" - Gives "rw-rw-r--" permission to a file
 - "input text "YOUR_TEXT" - Sends texts from the PC to the device
