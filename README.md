@@ -2,6 +2,14 @@
 
 This repo is dedicated to the further development of the HomePlus Mod, either by me, the community or the Retroid Team.
 
+# What does HomePlus Mod actually do?
+
+1) It removes the default RP2+ key layout file (/system/usr/keylayout/Vendor_2020_Product_0111.kl) from the RP2+ 
+2) Since the default key layout file is now "missing", the device will automatically assign the universal key layout (Generic.kl) to the RP2+
+3) It then changes the value of the HOME button to the obscure modifier META_LEFT in the universal key layout (key 102 META_LEFT)
+4) Copies the modified universal layout to the designed folder (/system/usr/keylayout/) & gives it the required permissions (rw-rw-r--)
+5) That's about it, the rest of the script just verifies that all files are present when installing / removing HomePlus.
+
 ## Dev / Testing Requirements
 
 #### PC / Laptop 
@@ -65,7 +73,3 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 - "stat -c "%A %a %N" *" - Shows the file permissions assigned to each file in a folder
 - "chmod 664 FILE_NAME" - Gives "rw-rw-r--" permission to a file
 - "input text "YOUR_TEXT" - Sends texts from the PC to the device
-
-# What does HomePlus do?
-
-By removing the default RP2+ key layout (/system/usr/keylayout/Vendor_2020_Product_0111.kl), HomePlus forces the device to use the "Generic.kl"
