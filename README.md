@@ -37,7 +37,7 @@ Here's a companion table that explains what those available / usable input in th
 
 ## Simulate Keys Press Syntax
 
-To open the shell / connection between the PC & the RP2+ use the command: adb shell
+To open the shell / connection between the PC & the RP2+ and send commands use the command: adb shell
 
 #### L3 Stuck Down Command Sequence:
 
