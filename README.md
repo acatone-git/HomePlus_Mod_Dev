@@ -5,7 +5,7 @@ This repo is dedicated to the improvement of the HomePlus Mod, either by me, the
 # What does the HomePlus Mod actually [do](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/HomePlus/HomePlus_Install.sh)?
 
 0) Temporary mounts the system partition as rewritable 
-1) It removes the default RP2+ key layout file (/system/usr/keylayout/Vendor_2020_Product_0111.kl) from the RP2+ 
+1) It then removes the default RP2+ key layout file (/system/usr/keylayout/Vendor_2020_Product_0111.kl) from the RP2+ 
 2) Since the default key layout file is now "missing", the device will automatically assign the universal key layout (Generic.kl) to the RP2+
 3) It then changes the value of the HOME button to the obscure modifier (META_LEFT) in the universal key layout (key 102 META_LEFT)
 4) Lastly, it copies the modified universal layout to the designed folder (/system/usr/keylayout/) & gives it the required permissions (644)
