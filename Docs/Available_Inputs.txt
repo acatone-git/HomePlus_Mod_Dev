@@ -1,0 +1,37 @@
+
+# Main Board
+
+add device 1: /dev/input/event5
+  name:     "Retro Station Controller"
+  events:
+    KEY (0001): 0066  0072  0073  009e  0130  0131  0132  0133
+                0134  0135  0136  0137  0138  0139  013a  013b
+                013c  013d  013e  0220  0221  0222  0223  0244
+
+add device 2: /dev/input/event6
+  name:     "Retro Pocket Virtual Mouse"
+  events:
+    KEY (0001): 0110  0111  0112  0115  0116
+    
+add device 5: /dev/input/event2
+  name:     "gpio-keys"
+  events:
+    KEY (0001): 0072  0073  0074
+    
+# Touchscreen
+
+  name:     "goodix-ts"
+  events:
+    KEY (0001): 009e  00ac  014a  014b  014c
+
+# Headphones / Headset
+    
+add device 4: /dev/input/event4
+  name:     "sprdphone-sc2730 Headset Keyboard"
+  events:
+    KEY (0001): 0072  0073  00e2  0103  0104
+    
+add device 7: /dev/input/event3
+  name:     "sprdphone-sc2730 Headset Jack"
+  events:
+    SW  (0005): 0002  0004
