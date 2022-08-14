@@ -9,7 +9,7 @@ This repo is dedicated to the improvement of the HomePlus Mod, either by me, the
 2) Since the default key layout file is now "missing", the device will automatically assign the universal key layout (Generic.kl) to the RP2+
 3) It then changes the value of the HOME button to the obscure modifier (META_LEFT) in the universal key layout (key 102 META_LEFT)
 4) Lastly, it copies the modified universal layout to the designed folder (/system/usr/keylayout/) & gives it the required permissions (644)
-5) The rest of the script just verifies that all files are present when installing / removing HomePlus, that' all!
+5) The rest of the script just verifies that all files are present when installing / removing the HomePlus Mod, that' about it!
 
 # Dev / Testing Area
 
