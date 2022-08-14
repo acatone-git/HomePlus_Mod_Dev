@@ -14,13 +14,11 @@ Here's a companion [table]() that explains what those available / usable input d
 
 ### L3 Down Command Sequence (Stuck Down):
 
-> sendevent /dev/input/event5 1 317 1
-> sendevent /dev/input/event5 0 0 0
+> sendevent /dev/input/event5 1 317 1; sendevent /dev/input/event5 0 0 0;
 
 ### L3 Down Command Sequence (Stuck Up):
 
-> sendevent /dev/input/event5 1 317 0
-> sendevent /dev/input/event5 0 0 0
+> sendevent /dev/input/event5 1 317 0; sendevent /dev/input/event5 0 0 0;
 
 ### L3 Press & Release (adb) :
 
