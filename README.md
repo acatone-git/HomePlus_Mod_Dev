@@ -70,7 +70,10 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 
 # Automate Examples 
 
-- [Let's Go Button] 
-- [Launch App]
-- [Simulated Key Press]
-- [Simulated Key Press + Function]
+- [Let's Go Button]()
+- [Launch App]()
+- [Simulated Key Press]()
+- [Simulated Key Press + Function]()
+
+# Dev Notes
+
