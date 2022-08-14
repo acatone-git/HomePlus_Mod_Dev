@@ -13,8 +13,7 @@ Here's a companion [table]() that explains what those available / usable input d
 ## Dev / Testing Requirements
 
 - ADB & Universal Drivers Installed : https://forum.xda-developers.com/t/tool-windows-adb-fastboot-may-2022.3944288/ 
-- USB Debugging Enabled 
-- <sub>(Settings > System > About RP2+ > Tap on the Build number x5 > Back to System > Developer Options > USB Debugging)</sub>
+- USB Debugging Enabled <sub>(Settings > System > About RP2+ > Tap on the Build number x5 > Back to System > Developer Options > USB Debugging)</sub>
 
 ## Simulated Keys Syntax
 
