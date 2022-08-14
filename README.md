@@ -27,25 +27,25 @@ Here's a companion [table]() that explains what those available / usable input d
 
 To open the shell / connection between the PC & the RP2+ use the command: adb shell
 
-### L3 Down Command Sequence (Stuck Down):
+#### L3 Down Command Sequence (Stuck Down):
 
 > sendevent /dev/input/event5 1 317 1; sendevent /dev/input/event5 0 0 0;
 
-### L3 Down Command Sequence (Stuck Up):
+#### L3 Down Command Sequence (Stuck Up):
 
 > sendevent /dev/input/event5 1 317 0; sendevent /dev/input/event5 0 0 0;
 
-### L3 Press & Release (adb) :
+#### L3 Press & Release (adb) :
 
 > <sub>sendevent /dev/input/event5 1 317 1; sendevent /dev/input/event5 0 0 0; sendevent /dev/input/event5 1 317 0; sendevent /dev/input/event5 0 0 0;</sub>
 
-### Hold / Clear Inputs Queue Command:
+#### Hold / Clear Inputs Queue Command:
 
 > sleep 0.3 
 
 This can be modified at wish, if you need to hold down a key for 3 seconds or more, just replace 0.3 to 3 (or whatever you need).
 
-## L3 Press & Release (HomePlus Mod)
+#### L3 Press & Release (HomePlus Mod)
 
 > <sub> sleep 0.3 ; sendevent /dev/input/event5 1 317 1; sendevent /dev/input/event5 0 0 0;  sleep 0.3 ; sendevent /dev/input/event5 1 317 0; sendevent /dev/input/event5 0 0 0;</sub>
 
