@@ -24,7 +24,7 @@ This repo is dedicated to the further development of the HomePlus Mod, either by
 > Settings > System > About RP2+ > Tap on the Build number x5 > Back to System > Developer Options > USB Debugging
 - HomePlus Mod: https://github.com/acatone-git/HomePlus_Mod
 - Automate: https://llamalab.com/automate/
-- Terminal Emulator : https://github.com/jackpal/Android-Terminal-Emulator
+- Terminal Emulator: https://github.com/jackpal/Android-Terminal-Emulator
 
 ## Available Inputs Log
 
