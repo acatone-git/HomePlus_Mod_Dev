@@ -10,6 +10,8 @@ This repo is dedicated to the further development of the HomePlus Mod, either by
 4) Lastly, it copies the modified universal layout to the designed folder (/system/usr/keylayout/) & gives it the required permissions (644)
 5) The rest of the script just verifies that all files are present when installing / removing HomePlus, that' all.
 
+# Dev / Testing Kit
+
 ## Dev / Testing Requirements
 
 #### PC / Laptop 
