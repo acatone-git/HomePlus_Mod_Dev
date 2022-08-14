@@ -82,4 +82,4 @@ Please share your custom creations with the community, I'm curious to see what's
 
 # Dev Notes
 
-- Creating a modified key layout file called "Vendor_0001_Product_0001.kl" in "/system/usr/keylayout/" splits, at least software wise, the volume + power board (gpio-keys) from the main board (Retro Station Controller / Xbox Controller) (see [screenshot](https://github.com/acatone-git/HomePlus_Dev/blob/main/Split/split.png) / try it [split](https://github.com/acatone-git/HomePlus_Dev/blob/main/Split/split.zip), this might be useful for hardware mods.
+- Creating a modified key layout file called "Vendor_0001_Product_0001.kl" in "/system/usr/keylayout/" splits, at least software wise, the volume + power board (gpio-keys) from the main board (Retro Station Controller / Xbox Controller) (see [screenshot](https://github.com/acatone-git/HomePlus_Dev/blob/main/Split/split.png) / try it [split](https://github.com/acatone-git/HomePlus_Dev/blob/main/Split/split.zip)), this might be useful for hardware mods.
