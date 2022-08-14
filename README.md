@@ -73,10 +73,10 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 
 Simply download these examples, import them in Automate (Three Dots Icon (Top Right)) > Import) & play around with them.
 
-- [Simulated Keypress]()
-- [Simulated Keypress + Function]()
-- [Simulated Keypress + App Launch]()
-- [Simulated Keypress + Simulated Screen Touch]()
+- [Simulated Keypress](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/Examples/Simulated%20Keypress.flo)
+- [Simulated Keypress + Function](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/Examples/Simulated%20Keypress%20%2B%20Function.flo)
+- [Simulated Keypress + App Launch](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/Examples/Simulated%20Keypress%20%2B%20Launch%20App.flo)
+- [Simulated Keypress + Simulated Screen Touch](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/Examples/Simulated%20Keypress%20%2B%20Simulated%20Screen%20Touch.flo)
 
 Please share your custom creations with the community, I'm curious to see what's possible!
 
