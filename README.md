@@ -26,7 +26,7 @@ This repo is dedicated to the further development of the HomePlus Mod, either by
 - Automate: https://llamalab.com/automate/
 - Terminal Emulator : https://github.com/jackpal/Android-Terminal-Emulator
 
-## Available Inputs on the RP2+
+## Available Inputs Log
 
 Here's a log of all the available / usable inputs on the RP2+, everything else will be ignored / discarded by the device: [Available_Inputs]()
 
