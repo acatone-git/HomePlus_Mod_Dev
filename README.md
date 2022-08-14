@@ -75,5 +75,7 @@ This can be modified at wish, if you need to hold down a key for 3 seconds or mo
 - [Simulated Key Press]()
 - [Simulated Key Press + Function]()
 
-# Dev Notes
+# R&D Notes
+
+- Creating a file called "Vendor_0001_Product_0001.kl" in "/system/usr/keylayout/" splits, software wise, the volume / power board from the main board (see [screenshot]())
 
