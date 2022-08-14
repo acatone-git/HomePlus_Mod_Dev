@@ -12,10 +12,19 @@ Here's a companion [table]() that explains what those available / usable input d
 
 ## Button Press / Press & Hold Syntax
 
-- Pressing L3 Down
+L3 Down:
 
 > sendevent /dev/input/event5 1 317 1
 > sendevent /dev/input/event5 0 0 0
+
+L3 Up:
+
+> sendevent /dev/input/event5 1 317 0
+> sendevent /dev/input/event5 0 0 0
+
+L3 Press & Release (adb) :
+
+> sendevent /dev/input/event5 1 317 1;sendevent /dev/input/event5 0 0 0;sendevent /dev/input/event5 1 317 0;sendevent /dev/input/event5 0 0 0;
 
 
 
