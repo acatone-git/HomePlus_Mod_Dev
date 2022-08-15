@@ -84,4 +84,4 @@ Please share your custom creations with the community, I'm curious to see what's
 
 - Creating a modified key layout file called "Vendor_0001_Product_0001.kl" in "/system/usr/keylayout/" splits, at least software wise, the volume + power board (gpio-keys) from the main board (Retro Station Controller / Xbox Controller) (see [screenshot](https://github.com/acatone-git/HomePlus_Dev/blob/main/Split/split.png) / [try it](https://github.com/acatone-git/HomePlus_Dev/blob/main/Split/split.zip), "split.kl" assignes L3/R3 to the volume keys), this might be useful for hardware mods.
 
-- The default folder contains a [backup](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/Default/Backup.zip) of all the default layouts \ keychar present on the RP2+ (Firmware 1.0.0.9)
+- The default folder contains a [backup](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/Default/Backup.zip) of all the default layouts present on the RP2+ (Firmware 1.0.0.9)
