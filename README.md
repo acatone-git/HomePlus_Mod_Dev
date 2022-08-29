@@ -2,7 +2,7 @@
 
 This repo is dedicated to the improvement of the HomePlus Mod, either by me, the community or the Retroid Team.
 
-# What does the HomePlus Mod actually [do](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/HomePlus/HomePlus_Install.sh)?
+# What does the HomePlus Mod actually [do](https://github.com/acatone-git/HomePlus_Mod_Dev/blob/main/HomePlus/HomePlus_Install_v2.sh)?
 
 0) Temporary mounts the system partition as rewritable to allow the various modifications
 1) It then removes the default RP2+ key layout file (/system/usr/keylayout/Vendor_2020_Product_0111.kl) from the RP2+ 
